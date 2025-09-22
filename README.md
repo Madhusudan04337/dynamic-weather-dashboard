@@ -1,4 +1,4 @@
-# 🌤️ Modern Weather Dashboard 
+# 🌤️ Modern Weather Application
 
 A beautiful, responsive weather application built with vanilla HTML, CSS, and JavaScript. Get real-time weather conditions and accurate 5-day forecasts for any location worldwide.
 
@@ -177,4 +177,4 @@ This project is open source and available under the [MIT License](LICENSE). Feel
 
 **Made with ❤️ for weather enthusiasts worldwide**
 
-*Last updated: September 2025*
+*Last updated: January 2025*
