@@ -177,4 +177,4 @@ This project is open source and available under the [MIT License](LICENSE). Feel
 
 **Made with ❤️ for weather enthusiasts worldwide**
 
-*Last updated: January 2025*
+*Last updated: September 2025*
