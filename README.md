@@ -1,4 +1,4 @@
-# 🌤️ Modern Weather Application
+# 🌤️ Modern Weather Dashboard 
 
 A beautiful, responsive weather application built with vanilla HTML, CSS, and JavaScript. Get real-time weather conditions and accurate 5-day forecasts for any location worldwide.
 
